@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/65.0.0.42.81;FBBV/23239444;FBDM/{density=1.5,width=720,height=1208};FBLC/en_US;FBCR/MPT;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/454.0.0.30.104;FBBV/449815710;FBDM/{density=3.0,width=720,height=1080};FBLC/en_GB;FBCR/Ufone;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI Y360-U61;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
