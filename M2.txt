@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/377.0.0.13.101;FBPN/com.facebook.orca;FBLC/en_US;FBBV/396116327;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBDV/TECNO KI5k;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1444};FB_FW/1;]
+[FBAN/FB4A;FBAV/163.0.0.36.91;FBBV/12793182;FBDM/{density=2.0,width=720,height=1456};FBLC/ru_RU;FBCR/Plus;FBMF/Mezu;FBBD/Mezu;FBPN/com.facebook.katana;FBDV/SM-N970F;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
