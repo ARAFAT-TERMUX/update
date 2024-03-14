@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/417.0.0.33.65;FBPN/com.facebook.katana;FBLC/tr_TR;FBBV/480085463;FBCR/Turk Telekom;FBMF/Casper;FBBD/Casper;FBDV/VIA_P3;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1360};FB_FW/1;FBRV/0;]
+[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948151;FBDM/{density=2.55,width=1080,height=2200};FBLC/en_AG;FBRV/354379977;FB_FW/2;FBCR/EMTEL;FBMF/HONOR;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/RMO-NX1;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]
