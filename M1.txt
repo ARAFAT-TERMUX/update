@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/960.0.0.98277;FBBV/803074513;[FBAN/FB4A;FBAV/430.0.0.23.113;FBBV/510343486;FBDM/{density=2.0,width=720,height=1459};FBLC/en_AU;FBRV/0;FB_FW/2;FBCR/VIVIFI;FBMF/Energy Phone;FBBD/Energy Phone;FBPN/com.facebook.katana;FBDV/Mi A3;FBSV/12;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/Airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A33w;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
