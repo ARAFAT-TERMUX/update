@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/548243051;FBCR/Jio True5G;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2617;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1548};FB_FW/1;]
+[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950287;FBDM/{density=2.625,width=1080,height=1920};FBLC/in_IN;FBRV/337277111;FBCR/Vodaphone India;FBMF/Cool1 dual;FBBD/Cool1 dual;FBPN/com.facebook.katana;FBDV/Cool1 dual;FBSV/8.8.8;FBOP/5;FBCA/armeabi-v7a:armeabi;]
