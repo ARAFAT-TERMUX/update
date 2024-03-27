@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/88.0.0.22.76;FBBV/35266892;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/vodafone IT;FBMF/KOMU;FBBD/KOMU;FBPN/com.facebook.katana;FBDV/Komu Color;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/269.0.0.50.127;FBBV/212782999;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/S11;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
