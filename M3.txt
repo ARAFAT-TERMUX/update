@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/86.0.0.19.69;FBBV/34022701;[FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/448014984;FBDM/{density=3.5,width=1440,height=2792};FBLC/en_GB;FBRV/0;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G955FD;FBSV/1.1.1;FBOP/8;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/185.0.0.77.88;FBBV/727316822;FBRV/0;FBPN/com.facebook.katana;FBLC/hi_IN;FBMF/Vivo;FBBD/Vivo;FBDV/Vivo 397 Ultra;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
