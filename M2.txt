@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/548243051;FBCR/Jio True5G;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2617;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1548};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/32.0.0.87.69;FBPN/com.facebook.orca;FBLC/en_US;FBBV/839442283;FBCR/Etisalat- Stay Safe;FBMF/samsung;FBBD/samsung;FBDV/E1150;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.8125,width=1080,height=2038};]
